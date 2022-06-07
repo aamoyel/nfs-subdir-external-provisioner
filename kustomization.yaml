@@ -1,0 +1,6 @@
+namespace: nfs
+resources:
+  - namespace.yaml
+  - class.yaml
+  - rbac.yaml
+  - deployment.yaml
