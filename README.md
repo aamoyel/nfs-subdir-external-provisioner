@@ -52,6 +52,7 @@ This is an example of how you may give instructions on setting up this project o
 You need to have :
 * Kubernetes cluster
 * Kustomize binary
+* NFS server
 
 ### Installation
 
@@ -59,7 +60,8 @@ You need to have :
    ```sh
    git clone https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner && cd nfs-subdir-external-provisioner
    ```
-2. Deploy the project on your cluster
+2. Change volumes and env vars in deployment.yaml
+3. Deploy the project on your cluster
    ```sh
    kustomize build . | kubectl apply -f -
    ```
