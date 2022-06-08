@@ -74,6 +74,6 @@ You need to have :
 
 Alan Amoyel - [@AlanAmoyel](https://twitter.com/AlanAmoyel)
 
-Project Link: [https://github.com/aamoyel/nginx-ingress-controller](https://github.com/aamoyel/nginx-ingress-controller)
+Project Link: [https://github.com/aamoyel/nfs-subdir-external-provisioner](https://github.com/aamoyel/nfs-subdir-external-provisioner)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
